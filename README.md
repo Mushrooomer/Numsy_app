@@ -28,13 +28,6 @@ Tato aplikace umožňuje uživatelům snadno převádět různé jednotky. Nabí
 4. Výsledek se zobrazí pod tlačítkem
 5. Historie převodů se ukládá ve spodní části aplikace
 
-## Struktura projektu
-
-převodník-jednotek/
-├── index.html
-├── styles.css
-└── script.js
-
 
 ## Licence
 Tento projekt je volně k použití pod licencí MIT.
